@@ -1,4 +1,4 @@
-let colorList = ['red','blue','gold','pink',"lawngreen"];
+let colorList = ['red', 'blue', 'gold', 'pink', "lawngreen"];
 let colorPicker = document.getElementsByClassName('color-pick');
 let output = document.getElementById('output');
 // console.log(colorPicker, output, "Hi");
@@ -6,3 +6,5 @@ let output = document.getElementById('output');
 for (let i = 0; i < colorPicker.length; i++) {
     colorpicker[i].style.backgroundColor = colorlist[i];
 }
+decodeURIfyyfnbv
+gfgfsshfbcf
