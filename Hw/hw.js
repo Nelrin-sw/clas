@@ -1,16 +1,8 @@
-let colorPick = document.getElementsByClassName('color-picker');
+let colorList = ['red','blue','gold','pink',"lawngreen"];
+let colorPicker = document.getElementsByClassName('color-pick');
 let output = document.getElementById('output');
-let colorList = ['green','blue','orange','purple']
+// console.log(colorPicker, output, "Hi");
 
-//////////
-
-for (let i = 0; i < colorPick.length; i++) {
-    colorPick[i].style.backgroundColor = colorList[i];
-    colorPick[i].addEventListener = ('click', function color() {
-        changeColor=(colorList[i]);
-    });
-};
-
-//////
-
-(output.style.backgroundColor = color);
+for (let i = 0; i < colorPicker.length; i++) {
+    colorpicker[i].style.backgroundColor = colorlist[i];
+}

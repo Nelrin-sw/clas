@@ -1,33 +1,37 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-#output{
+
+#output {
     margin: 1rem auto;
     max-width: 20rem;
     height: 7rem;
     border: 5px double #ccc;
     border-radius: 10px;
-    background-color: tomato;
+    background-color: lawngreen;
     box-shadow: 0px 0px 10px 5px #333;
 }
-#color-contaner{
+
+#color-contaner {
     max-width: 20rem;
     height: 3rem;
     display: flex;
-    margin: auto    ;
+    margin: auto;
     align-items: center;
     justify-content: center;
 }
-.color-picker{
-    margin: 5px;    
+
+.color-pick {
+    margin: 5px;
     border-radius: 50%;
     height: 2rem;
     width: 2rem;
     border: 1px double #aaa;
     background-color: white;
 }
-.color-picker:hover{
+
+.color-pick:hover {
     box-shadow: 0px 0px 5px #333;
 }
