@@ -6,5 +6,3 @@ let output = document.getElementById('output');
 for (let i = 0; i < colorPicker.length; i++) {
     colorpicker[i].style.backgroundColor = colorlist[i];
 }
-decodeURIfyyfnbv
-gfgfsshfbcf
