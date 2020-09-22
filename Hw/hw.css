@@ -23,15 +23,83 @@
     justify-content: center;
 }
 
-.color-pick {
+.color-pick1 {
     margin: 5px;
+    padding: 3px;
     border-radius: 50%;
     height: 2rem;
     width: 2rem;
-    border: 1px double #aaa;
+    border: 8px double #aaa;
     background-color: white;
+    text-align: center;
 }
 
-.color-pick:hover {
-    box-shadow: 0px 0px 5px #333;
+.color-pick2 {
+    margin: 5px;
+    padding: 3px;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    border: 8px double #aaa;
+    background-color: white;
+    text-align: center;
+}
+
+.color-pick3 {
+    margin: 5px;
+    padding: 3px;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    border: 8px double #aaa;
+    background-color: white;
+    text-align: center;
+}
+
+.color-pick4 {
+    margin: 5px;
+    padding: 3px;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    border: 8px double #aaa;
+    background-color: white;
+    text-align: center;
+}
+
+.color-pick5 {
+    margin: 5px;
+    padding: 3px;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    border: 8px double #aaa;
+    background-color: white;
+    text-align: center;
+}
+
+.color-pick1:hover {
+    box-shadow: 3px 3px 8px #333;
+    cursor: pointer;
+
+}
+
+.color-pick2:hover {
+    box-shadow: 3px 3px 8px #333;
+    cursor: pointer;
+}
+
+.color-pick3:hover {
+    box-shadow: 3px 3px 8px #333;
+    cursor: pointer;
+}
+
+.color-pick4:hover {
+    box-shadow: 3px 3px 8px #333;
+    cursor: pointer;
+}
+
+.color-pick5:hover {
+    box-shadow: 3px 3px 8px #333;
+    cursor: pointer;
 }
