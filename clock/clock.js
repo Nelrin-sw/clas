@@ -4,7 +4,7 @@ var radius = canvas.height / 2;
 ctx.translate(radius, radius);
 radius = radius * 0.9;
 setInterval(drawClock, 1000);
-drawClock();
+
 
 function drawClock() {
     drawFace(ctx, radius);
