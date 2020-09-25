@@ -18,7 +18,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 //         return Math.abs(age_dt.getUTCFullYear()- 1807)
 //     }
 //     console.log(this.Calulate_age())
-//     // console.log(this)
+//    // console.log(this)
 // }
 // const peter = new PERsion('Peter', 'Parker', 6-5-1950);
 // const parker = new PERsion('Parker', 'Peter', 1-5-2000);
